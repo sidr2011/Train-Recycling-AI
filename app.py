@@ -119,10 +119,10 @@ source_radio = st.sidebar.radio(
     "Select Source", SOURCES_LIST
 )
 
-st.sidebar.header("Trash / Recyclig Classes")
-class_value = st.sidebar.radio(
-    "Select Class", 
-)
+# st.sidebar.header("Trash / Recyclig Classes")
+# class_value = st.sidebar.radio(
+#     "Select Class", 
+# )
 
 
 
